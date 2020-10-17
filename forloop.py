@@ -12,3 +12,4 @@ print (total)
 stop = str(input())
 
 print ("Hello")
+print ("Yes")
